@@ -19,13 +19,12 @@ An on-demand drinks delivery mobile application built using Flutter, Firebase, a
 🔔 Firebase integration for backend & data storage
 
 📱 Screenshots
-![e-commerce2](https://github.com/user-attachments/assets/2ddd9675-2a39-4bc4-8821-9e4b8ad2fe65) ![e-commerce3](https://github.com/user-attachments/assets/c4d3765b-2bdf-4aa7-ab08-ac4a03e91eaa) ![e-commerce4](https://github.com/user-attachments/assets/396e912f-d488-47a3-991b-556f41b70708)  ![e-commerce5](https://github.com/user-attachments/assets/ce2e6753-d781-48ce-ac95-1d9a0af2dabf)  ![e-commerce6](https://github.com/user-attachments/assets/7f0f1a61-d0f4-4365-aafb-2d1224dd3277)    ![e-commerce7](https://github.com/user-attachments/assets/7c829d22-629a-42ad-96d1-f25166897bd5)
-
-
-
-
-
-
+![e-commerce2](https://github.com/user-attachments/assets/2ddd9675-2a39-4bc4-8821-9e4b8ad2fe65)
+![e-commerce3](https://github.com/user-attachments/assets/c4d3765b-2bdf-4aa7-ab08-ac4a03e91eaa)
+![e-commerce4](https://github.com/user-attachments/assets/396e912f-d488-47a3-991b-556f41b70708)
+![e-commerce5](https://github.com/user-attachments/assets/ce2e6753-d781-48ce-ac95-1d9a0af2dabf) 
+![e-commerce6](https://github.com/user-attachments/assets/7f0f1a61-d0f4-4365-aafb-2d1224dd3277) 
+![e-commerce7](https://github.com/user-attachments/assets/7c829d22-629a-42ad-96d1-f25166897bd5)
 
 🔧 Tech Stack
 Flutter – Frontend UI development
