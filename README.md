@@ -1,16 +1,69 @@
-# mara_pub
+![e-commerce5](https://github.com/user-attachments/assets/1c99b709-c16f-4e8c-856d-888a7300c663) Drinks Delivery App
+An on-demand drinks delivery mobile application built using Flutter, Firebase, and Firestore, designed to bring the club experience straight to your doorstep. Users can browse a curated selection of beverages like juice, wine, mojitos, and spirits, place orders, and enjoy seamless delivery — all from the comfort of their homes.
 
-A new Flutter project.
+🚀 Features
+🔒 User Authentication (Firebase Auth)
 
-## Getting Started
+🍹 Browse Categories (Juice, Wine, Mojito, Spirits)
 
-This project is a starting point for a Flutter application.
+🛒 Add to Cart & Checkout
 
-A few resources to get you started if this is your first Flutter project:
+📦 Real-Time Order Tracking & Confirmation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧾 Digital Receipt after purchase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌙 Dark-themed UI for a modern, club-like vibe
+
+🎬 Onboarding & Splash Screens for smooth user experience
+
+🔔 Firebase integration for backend & data storage
+
+📱 Screenshots
+![e-commerce2](https://github.com/user-attachments/assets/2ddd9675-2a39-4bc4-8821-9e4b8ad2fe65) ![e-commerce3](https://github.com/user-attachments/assets/c4d3765b-2bdf-4aa7-ab08-ac4a03e91eaa) ![e-commerce4](https://github.com/user-attachments/assets/396e912f-d488-47a3-991b-556f41b70708)  ![e-commerce5](https://github.com/user-attachments/assets/ce2e6753-d781-48ce-ac95-1d9a0af2dabf)  ![e-commerce6](https://github.com/user-attachments/assets/7f0f1a61-d0f4-4365-aafb-2d1224dd3277)    ![e-commerce7](https://github.com/user-attachments/assets/7c829d22-629a-42ad-96d1-f25166897bd5)
+
+
+
+
+
+
+
+🔧 Tech Stack
+Flutter – Frontend UI development
+
+Firebase Authentication – User login and registration
+
+Cloud Firestore – Real-time database for product data & order storage
+
+Firebase Storage – Image hosting (if applicable)
+
+📂 Project Structure (Simplified)
+
+lib/
+├── auth/           # Login/Register logic
+├── models/         # Data models
+├── screens/        # All UI screens (Home, Cart, Checkout, etc.)
+├── widgets/        # Custom reusable widgets
+├── images/         # Image folders (wines, mojito, spirits, juice)
+├── main.dart       # Entry point
+🛠️ Getting Started
+Clone the repository:
+
+git clone https://github.com/Ern-est/E-commerce_flutter-X-firebase.git
+Install dependencies:
+
+bash
+Copy
+Edit
+flutter pub get
+Make sure you’ve configured Firebase for both Android and iOS:
+
+Add your google-services.json (Android)
+
+Add your GoogleService-Info.plist (iOS)
+
+Run the app:
+
+bash
+Copy
+Edit
+flutter run
