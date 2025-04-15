@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628559535793",
+    "project_id": "mara-pub",
+    "storage_bucket": "mara-pub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628559535793:android:f66b9f5a147f7137d9cc90",
+        "android_client_info": {
+          "package_name": "com.example.mara_pub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDiS26ZLnyvat8KIbvhgwYvVoBddyGmFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
